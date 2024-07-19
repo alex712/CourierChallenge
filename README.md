@@ -16,9 +16,9 @@ Luck: 15% - 35% (0% means no luck, 100% lucky all the time)
 
 Alex also possesses 2 skills:
 
-Quick Route: A chance to find a faster route, reducing delivery time significantly; there’s a 15%
-chance to use this skill every time a delivery is made.
-Heavy Lifting: Can handle heavy packages more efficiently, reducing fatigue; there’s a 25%
+**Quick Route**: A chance to find a faster route, reducing delivery time significantly; there’s a 15%
+chance to use this skill every time a delivery is made.  
+**Heavy Lifting**: Can handle heavy packages more efficiently, reducing fatigue; there’s a 25%
 chance to use this skill every time a heavy package is delivered.
 
 # Gameplay
