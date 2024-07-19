@@ -1,6 +1,6 @@
 # The Courier Challenge
 
-**The Story**
+# The Story
 
 In the bustling city of Deliveria, a skilled delivery driver named Alex works tirelessly to ensure
 packages are delivered on time, no matter the obstacles. Alex, like all dedicated couriers, has
