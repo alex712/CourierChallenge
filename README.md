@@ -39,7 +39,7 @@ challenge, and the challenge affects the driver.
 The impact on Alex is calculated with the following formula:
 
 # Impact
-Impact=Challenge Weight×Traffic÷Driver Strength
+Impact=Challenge Weight×Traffic÷Driver Strength  
 The impact is subtracted from Alex’s stamina. Alex can miss the impact if he gets lucky that
 turn.  
 Alex&#39;s skills occur randomly based on their chances, so include them in each turn.
