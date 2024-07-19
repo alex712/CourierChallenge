@@ -75,3 +75,5 @@ to run the game you must have php8 (tested with php8.3) and you must run the fol
 Or if you want to run Unit Testing:
 
 ``$ ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/GameTest.php``  
+
+Credits: Alexandru Rotaru https://www.linkedin.com/in/alexrotaru87/
