@@ -21,7 +21,7 @@ chance to use this skill every time a delivery is made.
 Heavy Lifting: Can handle heavy packages more efficiently, reducing fatigue; there’s a 25%
 chance to use this skill every time a heavy package is delivered.
 
-Gameplay
+# Gameplay
 
 As Alex navigates through Deliveria, various delivery challenges arise with the following
 properties:  
