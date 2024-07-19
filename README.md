@@ -42,8 +42,8 @@ The impact on Alex is calculated with the following formula:
 Impact=Challenge Weight×Traffic÷Driver Strength  
 The impact is subtracted from Alex’s stamina. Alex can miss the impact if he gets lucky that
 turn.  
-Alex&#39;s skills occur randomly based on their chances, so include them in each turn.
-Game Over  
+Alex&#39;s skills occur randomly based on their chances, so include them in each turn.  
+**Game Over**  
 The game ends when Alex&#39;s stamina is depleted or after 20 deliveries. Each turn, the
 application must output the results: what happened, which skills were used (if any), the impact
 sustained, and Alex&#39;s remaining stamina.  
