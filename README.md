@@ -62,4 +62,16 @@ Să fie scris nativ, fără frameworks; să fie dezvoltat OOP.
 Poti utiliza teste unitare.  
 NU trebuie să te ocupi și de interfață.  
 Să utilizezi Design Patterns.  
-Composer și Autoloader.  
+Composer și Autoloader.
+
+# How to
+
+to run the game you must have php8 (tested with php8.3) and you must run the following commands:
+
+``$ git clone https://github.com/alex712/CourierChallenge.git/``  
+``composer install``  
+``$ php run.php``
+
+Or if you want to run Unit Testing:
+
+``$ ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/GameTest.php``  
